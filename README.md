@@ -86,3 +86,9 @@ Manejo de excepciones y validaciones
 Consumo de APIs REST
 Persistencia de datos en formato JSON
 Además, se complementó con investigación personal para implementar mejoras como el uso de colores en consola, historial persistente y una experiencia de usuario más fluida. Cada etapa del desarrollo fue una oportunidad para reforzar y ampliar las habilidades en programación con Java.
+
+📬 Contacto
+Desarrollado por Carlos Fernando Palacios Gracia
+📧 Correo: cfpalaciwalker@gmail.com
+📍 Colombia, Latinoamérica
+   

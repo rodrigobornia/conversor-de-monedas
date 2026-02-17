@@ -1,0 +1,60 @@
+[
+  {
+    "numeroOpcion": 90,
+    "monedaOrigen": "JPY",
+    "monedaDestino": "EUR",
+    "monto": 10000.0,
+    "resultado": 56.2,
+    "tasaDeCambio": {
+      "result": "success",
+      "documentation": "https://www.exchangerate-api.com/docs",
+      "terms_of_use": "https://www.exchangerate-api.com/terms",
+      "time_last_update_unix": 1761609602,
+      "time_last_update_utc": "Tue, 28 Oct 2025 00:00:02 +0000",
+      "time_next_update_unix": 1761696002,
+      "time_next_update_utc": "Wed, 29 Oct 2025 00:00:02 +0000",
+      "base_code": "JPY",
+      "conversion_rates": {
+        "USD": 0.006544,
+        "ARS": 9.0227,
+        "CAD": 0.009153,
+        "CHF": 0.005206,
+        "CLP": 6.1648,
+        "CNY": 0.04654,
+        "COP": 25.2873,
+        "DOP": 0.4184,
+        "EUR": 0.00562,
+        "JPY": 1.0
+      }
+    }
+  },
+  {
+    "numeroOpcion": 86,
+    "monedaOrigen": "EUR",
+    "monedaDestino": "DOP",
+    "monto": 30000.0,
+    "resultado": 2233239.0,
+    "tasaDeCambio": {
+      "result": "success",
+      "documentation": "https://www.exchangerate-api.com/docs",
+      "terms_of_use": "https://www.exchangerate-api.com/terms",
+      "time_last_update_unix": 1761609602,
+      "time_last_update_utc": "Tue, 28 Oct 2025 00:00:02 +0000",
+      "time_next_update_unix": 1761696002,
+      "time_next_update_utc": "Wed, 29 Oct 2025 00:00:02 +0000",
+      "base_code": "EUR",
+      "conversion_rates": {
+        "USD": 1.1646,
+        "ARS": 1605.689,
+        "CAD": 1.6285,
+        "CHF": 0.9262,
+        "CLP": 1096.4719,
+        "CNY": 8.2809,
+        "COP": 4499.2045,
+        "DOP": 74.4413,
+        "EUR": 1.0,
+        "JPY": 177.9458
+      }
+    }
+  }
+]

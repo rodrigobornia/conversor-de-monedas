@@ -1,0 +1,62 @@
+[
+  {
+    "numeroOpcion": 2,
+    "monedaOrigen": "ARS",
+    "monedaDestino": "USD",
+    "monto": 345678.0,
+    "resultado": 238.8116463,
+    "tasaDeCambio": {
+      "result": "success",
+      "documentation": "https://www.exchangerate-api.com/docs",
+      "terms_of_use": "https://www.exchangerate-api.com/terms",
+      "time_last_update_unix": 1762473602,
+      "time_last_update_utc": "Fri, 07 Nov 2025 00:00:02 +0000",
+      "time_next_update_unix": 1762560002,
+      "time_next_update_utc": "Sat, 08 Nov 2025 00:00:02 +0000",
+      "base_code": "ARS",
+      "conversion_rates": {
+        "USD": 6.9085E-4,
+        "ARS": 1.0,
+        "CAD": 9.7479E-4,
+        "CHF": 5.5764E-4,
+        "CLP": 0.652,
+        "CNY": 0.004919,
+        "COP": 2.648,
+        "DOP": 0.04438,
+        "EUR": 5.9875E-4,
+        "JPY": 0.1059
+      }
+    },
+    "horaDeRealizacion": "2025-11-06 19:17:33"
+  },
+  {
+    "numeroOpcion": 1,
+    "monedaOrigen": "USD",
+    "monedaDestino": "ARS",
+    "monto": 1000.0,
+    "resultado": 1447500.0,
+    "tasaDeCambio": {
+      "result": "success",
+      "documentation": "https://www.exchangerate-api.com/docs",
+      "terms_of_use": "https://www.exchangerate-api.com/terms",
+      "time_last_update_unix": 1762473602,
+      "time_last_update_utc": "Fri, 07 Nov 2025 00:00:02 +0000",
+      "time_next_update_unix": 1762560002,
+      "time_next_update_utc": "Sat, 08 Nov 2025 00:00:02 +0000",
+      "base_code": "USD",
+      "conversion_rates": {
+        "USD": 1.0,
+        "ARS": 1447.5,
+        "CAD": 1.4109,
+        "CHF": 0.807,
+        "CLP": 943.8164,
+        "CNY": 7.1202,
+        "COP": 3832.972,
+        "DOP": 64.2393,
+        "EUR": 0.8666,
+        "JPY": 153.2282
+      }
+    },
+    "horaDeRealizacion": "2025-11-06 21:12:35"
+  }
+]
