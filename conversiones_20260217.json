@@ -3,8 +3,8 @@
     "numeroOpcion": 1,
     "monedaOrigen": "USD",
     "monedaDestino": "ARS",
-    "monto": 1000.0,
-    "resultado": 1452250.0,
+    "monto": 1.0,
+    "resultado": 1452.25,
     "tasaDeCambio": {
       "result": "success",
       "documentation": "https://www.exchangerate-api.com/docs",
@@ -27,7 +27,7 @@
         "JPY": 153.5054
       }
     },
-    "horaDeRealizacion": "2026-02-17 20:14:51"
+    "horaDeRealizacion": "2026-02-17 20:30:17"
   },
   {
     "numeroOpcion": 1,
@@ -57,6 +57,66 @@
         "JPY": 153.5054
       }
     },
-    "horaDeRealizacion": "2026-02-17 20:15:23"
+    "horaDeRealizacion": "2026-02-17 20:57:58"
+  },
+  {
+    "numeroOpcion": 1,
+    "monedaOrigen": "USD",
+    "monedaDestino": "ARS",
+    "monto": 1.0,
+    "resultado": 1452.25,
+    "tasaDeCambio": {
+      "result": "success",
+      "documentation": "https://www.exchangerate-api.com/docs",
+      "terms_of_use": "https://www.exchangerate-api.com/terms",
+      "time_last_update_unix": 1771372802,
+      "time_last_update_utc": "Wed, 18 Feb 2026 00:00:02 +0000",
+      "time_next_update_unix": 1771459202,
+      "time_next_update_utc": "Thu, 19 Feb 2026 00:00:02 +0000",
+      "base_code": "USD",
+      "conversion_rates": {
+        "USD": 1.0,
+        "ARS": 1452.25,
+        "CAD": 1.3645,
+        "CHF": 0.7705,
+        "CLP": 863.2772,
+        "CNY": 6.9133,
+        "COP": 3672.1168,
+        "DOP": 62.201,
+        "EUR": 0.8447,
+        "JPY": 153.2841
+      }
+    },
+    "horaDeRealizacion": "2026-02-17 21:02:54"
+  },
+  {
+    "numeroOpcion": 31,
+    "monedaOrigen": "ARS",
+    "monedaDestino": "EUR",
+    "monto": 1.0,
+    "resultado": 5.8163E-4,
+    "tasaDeCambio": {
+      "result": "success",
+      "documentation": "https://www.exchangerate-api.com/docs",
+      "terms_of_use": "https://www.exchangerate-api.com/terms",
+      "time_last_update_unix": 1771372802,
+      "time_last_update_utc": "Wed, 18 Feb 2026 00:00:02 +0000",
+      "time_next_update_unix": 1771459202,
+      "time_next_update_utc": "Thu, 19 Feb 2026 00:00:02 +0000",
+      "base_code": "ARS",
+      "conversion_rates": {
+        "USD": 6.8859E-4,
+        "ARS": 1.0,
+        "CAD": 9.3958E-4,
+        "CHF": 5.3059E-4,
+        "CLP": 0.5944,
+        "CNY": 0.00476,
+        "COP": 2.5286,
+        "DOP": 0.04283,
+        "EUR": 5.8163E-4,
+        "JPY": 0.1056
+      }
+    },
+    "horaDeRealizacion": "2026-02-17 21:03:55"
   }
 ]
