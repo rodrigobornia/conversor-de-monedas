@@ -71,7 +71,7 @@ Además, **cada conversión se registra automáticamente** en un archivo `histor
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/london-png/CONVERTIDOR-_DE_MONEDAS_TASA_CAMBIO.git
+   git clone https://github.com/rodrigobornia/conversor-de-monedas.git
 
 2. Abre el proyecto en tu IDE de Java (recomendado: IntelliJ IDEA).
 3. Asegúrate de tener conexión a internet para acceder a la API de tasas de cambio.
@@ -87,8 +87,3 @@ Consumo de APIs REST
 Persistencia de datos en formato JSON
 Además, se complementó con investigación personal para implementar mejoras como el uso de colores en consola, historial persistente y una experiencia de usuario más fluida. Cada etapa del desarrollo fue una oportunidad para reforzar y ampliar las habilidades en programación con Java.
 
-📬 Contacto
-Desarrollado por Carlos Fernando Palacios Gracia
-📧 Correo: cfpalaciwalker@gmail.com
-📍 Colombia, Latinoamérica
-   
